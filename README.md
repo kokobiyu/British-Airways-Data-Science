@@ -55,7 +55,7 @@ space for baggage or provide discounts for extra baggage
 # Certificate
 After completing the task I got a certificate of completion from British Airways
 
-![pdf](Pictures/certificate.pdf)
+![pdf](Pictures/Certificate.pdf)
 
 
 
