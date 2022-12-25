@@ -46,6 +46,7 @@ booking
 booking
 * Wants in flight meals = if the customer wanted in-flight meals in the
 booking
+
 These columns are the most influential factor which leads to a purchase.
 The first thing we can do to make the biggest impact maybe is to make more
 space for baggage or provide discounts for extra baggage
